@@ -1,0 +1,52 @@
+
+
+.stats-container{
+    display: flex;
+    flex-direction: row;
+}
+.stats-container1{
+    flex:1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.stats-container2{
+flex:1;
+padding:30px;
+}
+.img{
+    height:300px;
+    width:350px;
+}
+.skill-stat-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.oneB{
+    color: palevioletred;
+    font-size: 14px;
+}
+
+.number{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+
+    
+}
+
+.innerText{
+    font-size: 14px;
+    font-weight: light;
+}
+
+.oneA{
+    font-size: 14px;
+}
+
+.title{
+    font-size: 20px;
+}
